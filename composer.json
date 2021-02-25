@@ -1,0 +1,11 @@
+{
+    "name": "shubh/helloworld",
+    "description": "hello world library",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "shubh\\helloworld\\": "src/"
+        }
+    }
+}
